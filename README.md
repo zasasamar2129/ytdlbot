@@ -22,7 +22,7 @@ This is a powerful and fast Telegram bot that lets you download videos from YouT
 
 ## 📂 Usage
 - Add the bot: [z_tubedlbot](https://t.me/z_tubedlbot)
-- Join the updates channel: [Telegram Channel](https://t.me/+OGRC8tp9-U9mZDZl)
+- Join the updates channel: [Telegram Channel](https://t.me/Zpotify1)
 - Send any video link directly to the bot. Supported websites include:
   [yt-dlp Supported Sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).
 
@@ -140,7 +140,7 @@ This project is licensed under the Apache License 2.0.
 ---
 
 ## 🌍 Community
-Join our [Telegram Channel](https://t.me/+OGRC8tp9-U9mZDZl) for updates and support.
+Join our [Telegram Channel](https://t.me/Zpotify1) for updates and support.
 
 ---
 
