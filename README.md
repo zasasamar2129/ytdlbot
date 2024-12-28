@@ -82,13 +82,13 @@ docker run -e APP_ID=111 -e APP_HASH=111 -e TOKEN=370FXI zasasamar2129/ytdlbot
 
 ## 🎥 Demo
 ### Normal Download
-![Normal Download](assets/1_resized.jpeg)
+![Normal Download](assets/1.jpeg)
 
 ### Instagram Post Download
-![Instagram Download](assets/instagram_resized.png)
+![Instagram Download](assets/instagram.png)
 
 ### Celery Worker Overview
-![Celery Workers](assets/2_resized.jpeg)
+![Celery Workers](assets/2.jpeg)
 
 ---
 
@@ -114,7 +114,8 @@ docker run -e APP_ID=111 -e APP_HASH=111 -e TOKEN=370FXI zasasamar2129/ytdlbot
 ### Cryptocurrency
 - **TRX or USDT (TRC20)**: `TFmzFJWf7t53G1f5voT1Lvsb2CSr4nfubF`
 
-![Wallet QR Code](assets/wallet_resized.jpeg)
+![Wallet QR Code](https://github.com/user-attachments/assets/d30c41b3-73fa-4e47-9c66-d839ad788258)
+
 
 ---
 
@@ -142,8 +143,4 @@ This project is licensed under the Apache License 2.0.
 ## 🌍 Community
 Join our [Telegram Channel](https://t.me/Zpotify1) for updates and support.
 
----
-
-### 🔧 Note
-For resized images, replace placeholders (`assets/1_resized.jpeg`, etc.) with optimized versions of your current images (recommended size: 800px width).
 
