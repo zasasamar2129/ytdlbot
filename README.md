@@ -114,7 +114,8 @@ docker run -e APP_ID=111 -e APP_HASH=111 -e TOKEN=370FXI zasasamar2129/ytdlbot
 ### Cryptocurrency
 - **TRX or USDT (TRC20)**: `TFmzFJWf7t53G1f5voT1Lvsb2CSr4nfubF`
 
-![Wallet QR Code](https://github.com/user-attachments/assets/d30c41b3-73fa-4e47-9c66-d839ad788258)
+![Wallet QR Code](https://github.com/user-attachments/assets/1b4bd3b7-3dfb-4863-8b7e-a0c43be76137)
+
 
 
 ---
