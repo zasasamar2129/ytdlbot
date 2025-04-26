@@ -23,18 +23,36 @@ from utils import get_func_queue
 
 class BotText:
     start = """
-    Welcome to YouTube Download bot. Type /help for more information. 
-    Backup bot: @z_tubedlbot
-    Join https://t.me/Zpotify2129 for updates."""
-
-    help = f"""
-1. If the bot doesn't work, try again or join https://t.me/Zpotify2129 for updates.
-
-2. Source code: https://github.com/zasasamar2129/ytdlbot.git
+    🎬 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗕𝗼𝘁  �
+    
+    ✦ Type /help for guidance 
+    ✦ Backup bot: @z_tubedlbot
+    ✦ Join our channel: 𝙩.𝙢𝙚/𝙕𝙥𝙤𝙩𝙞𝙛𝙮1
+    
+    ✧･ﾟ: *✧･ﾟ:*  *:･ﾟ✧*:･ﾟ✧
     """
 
-    about = "YouTube Downloader by @Itachi2129.\n\nOpen source on GitHub: github.com/zasasamar2129/ytdlbot/"
+    help = """
+    🆘 𝗛𝗲𝗹𝗽 𝗖𝗲𝗻𝘁𝗲𝗿 🆘
 
+1️⃣ If the bot isn't responding, please retry or join:
+   🔗 𝘵.𝘮𝘦/𝘡𝘱𝘰𝘵𝘪𝘧𝘺1 for updates
+
+2️⃣ Source code available at:
+   🌟 𝗴𝗶𝘁𝗵𝘂𝗯.𝗰𝗼𝗺/𝘇𝗮𝘀𝗮𝘀𝗮𝗺𝗮𝗿𝟮𝟭𝟮𝟵/𝘆𝘁𝗱𝗹𝗯𝗼𝘁
+   
+   ✦ ⋆ ⋆ ✦
+    """
+
+    about = """
+    𝖄𝖔𝖚𝖙𝖚𝖇𝖊 𝕯𝖔𝖜𝖓𝖑𝖔𝖆𝖉 𝕭𝖔𝖙 𝕴𝖓𝖋𝖔
+    
+    ✧ Developed by @Itachi2129
+    ✧ Open source on GitHub:
+      𝓰𝓲𝓽𝓱𝓾𝓫.𝓬𝓸𝓶/𝔃𝓪𝓼𝓪𝓼𝓪𝓶𝓪𝓻2129/𝔂𝓽𝓭𝓵𝓫𝓸𝓽
+    
+    ✦･ﾟ✧･ﾟ✦･ﾟ✧･ﾟ✦
+    """
     buy = f"""
 **Terms:**
 1. You can use this bot to download video for {FREE_DOWNLOAD} times within a 24-hour period.
